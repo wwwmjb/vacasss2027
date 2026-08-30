@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es-AR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Casa de Verano · Elegí las vacaciones</title>
+<meta name="description" content="Opciones de casas para las vacaciones de verano en familia.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;1,9..144,500&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">Costa Atlántica · Verano</p>
+    <h1>¿A cuál nos vamos?</h1>
+    <p class="hero-sub">Diez casas, un solo lugar para mirarlas y decidir en familia. Tocá una tarjeta para abrirla en Airbnb.</p>
+  </div>
+  <svg class="horizon" viewBox="0 0 1200 140" preserveAspectRatio="none" aria-hidden="true">
+    <circle cx="1040" cy="46" r="34" fill="var(--sun)"></circle>
+    <path d="M0,90 C120,70 180,110 300,92 C420,74 480,104 600,90 C720,76 780,102 900,88 C1020,74 1100,96 1200,86 L1200,140 L0,140 Z" fill="var(--wave-back)"></path>
+    <path d="M0,108 C140,92 220,118 360,106 C500,94 560,116 700,104 C840,92 920,114 1060,102 C1120,97 1160,100 1200,104 L1200,140 L0,140 Z" fill="var(--wave-front)"></path>
+  </svg>
+</header>
+
+<main>
+  <div class="toolbar" id="toolbar">
+    <div class="toolbar-group">
+      <label for="filter-location">Zona</label>
+      <select id="filter-location">
+        <option value="">Todas</option>
+      </select>
+    </div>
+    <div class="toolbar-group">
+      <label for="sort-by">Ordenar por</label>
+      <select id="sort-by">
+        <option value="default">Como en la lista</option>
+        <option value="rating">Mejor puntuadas</option>
+        <option value="beds">Más camas</option>
+        <option value="favorites">Favoritas primero</option>
+      </select>
+    </div>
+    <p class="count" id="result-count"></p>
+  </div>
+
+  <section id="grid" class="grid" aria-live="polite"></section>
+
+  <p id="empty-state" class="empty-state" hidden>Todavía no hay casas cargadas en <code>houses.json</code>.</p>
+</main>
+
+<footer>
+  <p>Marcá tus favoritas con el ♥ — queda guardado solo en este dispositivo/navegador, para que cada uno vote a su gusto.</p>
+  <p class="footer-small">Para agregar una casa nueva, sumá un objeto al archivo <code>houses.json</code> con el link de Airbnb.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
