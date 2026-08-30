@@ -145,6 +145,20 @@
   },
   {
     "id": 10,
+    "title": "Casa en la caleta",
+    "location": "La caleta, Mar Chiquita",
+    "url": "https://casa.mercadolibre.com.ar/MLA-3713817232-la-caleta-a-150-mts-del-mar-casas-para-4-y-6-personas-_JM",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_860938-MLA73384653407_122023-F.webp",
+    "guests": 6,
+    "bedrooms": 2,
+    "beds": 6,
+    "baths": 2,
+    "blurb": "2 Casas en zona tranquila, ideal para descansar.",
+    "amenities": ["Parrilla", "Estacionamiento", "Wifi", "Acepta mascotas"],
+    "notes": ""
+  },
+  {
+    "id": 11,
     "title": "Casa rústica para 8 personas",
     "location": "Mar Azul, Villa Gesell",
     "url": "https://www.airbnb.com.ar/rooms/1345584642629888716",
