@@ -124,5 +124,21 @@
     "blurb": "Experiencia de bosque en un lugar mágico y sereno, muy bien calificada en comunicación y check-in.",
     "amenities": ["Wifi", "Estacionamiento"],
     "notes": ""
+  },
+    {
+    "id": 9,
+    "title": "Casa Mar de Cobo 7 personas",
+    "location": "mar de cobo, costa atlantica",
+    "url": "https://casa.mercadolibre.com.ar/MLA-2000871577-mar-de-cobo-alquiler-p8-personas-promocion-7-x6-_JM",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_2X_743587-MLA114766676505_072026-F.webp",
+    "guests": 7,
+    "bedrooms": 3,
+    "beds": 7,
+    "baths": 2,
+    "rating": 4.67,
+    "reviews": 3,
+    "blurb": "a 200 metros del mar y a 500 metros del centro comercial.",
+    "amenities": ["Wifi", "Estacionamiento"],
+    "notes": ""
   }
 ]
