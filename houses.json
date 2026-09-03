@@ -140,5 +140,21 @@
     "blurb": "a 200 metros del mar y a 500 metros del centro comercial.",
     "amenities": ["Wifi", "Estacionamiento"],
     "notes": ""
+  },
+    {
+    "id": 10,
+    "title": "Casa Bosque Mar Azul",
+    "location": "Mar Azul, Villa Gesell",
+    "url": "https://www.airbnb.com.ar/rooms/1592851421014412926?source_impression_id=p3_1788478991_P38yxrOprj0dI0gU",
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1592851421014412926/original/8373e2a8-8950-4a95-a317-a1e9208ad3f2.jpeg?im_w=1440",
+    "guests": 8,
+    "bedrooms": 3,
+    "beds": 6,
+    "baths": 2,
+    "rating": 3.00,
+    "reviews": 1,
+    "blurb": "Casa amplia y luminosa en Mar Azul – Ideal para 8 personas",
+    "amenities": ["Wifi", "Estacionamiento", "Aire Acondicionado"],
+    "notes": ""
   }
 ]
