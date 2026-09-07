@@ -156,5 +156,21 @@
     "blurb": "Casa amplia y luminosa en Mar Azul – Ideal para 8 personas",
     "amenities": ["Wifi", "Estacionamiento", "Aire Acondicionado"],
     "notes": ""
+  },
+    {
+    "id": 11,
+    "title": "Chalet Villa Gesell",
+    "location": "Villa Gesell",
+    "url": "https://www.airbnb.com.ar/rooms/1063894908632719302",
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1063894908632719302/original/da8dfc28-3e9c-4381-9a7f-22deb2641254.jpeg?im_w=2560",
+    "guests": 8,
+    "bedrooms": 2,
+    "beds": 6,
+    "baths": 1,
+    "rating": 0,
+    "reviews": 8,
+    "blurb": "Chalet en villa gesell, cerca del 'Viejo Hobbit'",
+    "amenities": ["Wifi", "Estacionamiento", "Aire Acondicionado"],
+    "notes": ""
   }
 ]
