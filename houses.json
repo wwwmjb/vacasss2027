@@ -41,7 +41,7 @@
     "bedrooms": 4,
     "beds": 6,
     "baths": 2,
-    "rating": 4,95,
+    "rating": 4.95,
     "reviews": 22,
     "blurb": "Chalet en villa gesell, cerca de 'Mar de las pampas'",
     "amenities": ["Wifi", "Estacionamiento", "Aire Acondicionado"],
