@@ -46,5 +46,21 @@
     "blurb": "Chalet en villa gesell, cerca de 'Mar de las pampas'",
     "amenities": ["Wifi", "Estacionamiento", "Aire Acondicionado"],
     "notes": ""
+  },
+  {
+    "id": 4,
+    "title": "Casa Calipso",
+    "location": "La Lucila Del Mar",
+    "url": "https://www.airbnb.com.ar/rooms/1105071927334378527",
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1105071927334378527/original/5ee6155f-b203-4ae5-a032-ac110218eb2b.jpeg?im_w=2560",
+    "guests": 8,
+    "bedrooms": 4,
+    "beds": 8,
+    "baths": 2,
+    "rating": null,
+    "reviews": 0,
+    "blurb": "Alojamiento entero en La Lucila del Mar, Argentina",
+    "amenities": ["Wifi", "Estacionamiento", "Aire Acondicionado"],
+    "notes": ""
   }
 ]
