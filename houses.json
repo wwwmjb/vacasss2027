@@ -1,6 +1,6 @@
 [
   {
-    "id": 3,
+    "id": 1,
     "title": "El Edén",
     "location": "Chapadmalal",
     "url": "https://www.airbnb.com.ar/rooms/1168183266436613200",
@@ -16,7 +16,7 @@
     "notes": ""
   },
   {
-    "id": 8,
+    "id": 2,
     "title": "Casa rústica para 8 personas",
     "location": "Mar Azul, Villa Gesell",
     "url": "https://www.airbnb.com.ar/rooms/1345584642629888716",
@@ -31,8 +31,8 @@
     "amenities": ["Wifi", "Estacionamiento"],
     "notes": ""
   },
-    {
-    "id": 11,
+  {
+    "id": 3,
     "title": "Chalet Villa Gesell",
     "location": "Villa Gesell",
     "url": "https://www.airbnb.com.ar/rooms/21606309?adults=7&check_in=2026-10-12&source_impression_id=p3_1789399558_P34HlFTl_MXOKqwQ",
