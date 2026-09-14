@@ -16,22 +16,6 @@
     "notes": ""
   },
   {
-    "id": 2,
-    "title": "Casa rústica para 8 personas",
-    "location": "Mar Azul, Villa Gesell",
-    "url": "https://www.airbnb.com.ar/rooms/1345584642629888716",
-    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1345584642629888716/original/0e102e0b-a8c4-4dae-8e1d-224a7f0e39fb.jpeg?im_w=720",
-    "guests": 8,
-    "bedrooms": 3,
-    "beds": 6,
-    "baths": 2,
-    "rating": 4.67,
-    "reviews": 3,
-    "blurb": "Experiencia de bosque en un lugar mágico y sereno, muy bien calificada en comunicación y check-in.",
-    "amenities": ["Wifi", "Estacionamiento"],
-    "notes": ""
-  },
-  {
     "id": 3,
     "title": "Chalet Villa Gesell",
     "location": "Villa Gesell",
@@ -45,22 +29,6 @@
     "reviews": 22,
     "blurb": "Chalet en villa gesell, cerca de 'Mar de las pampas'",
     "amenities": ["Wifi", "Estacionamiento", "Aire Acondicionado"],
-    "notes": ""
-  },
-  {
-    "id": 4,
-    "title": "Chalet hasta 8 personas",
-    "location": "Mar del tuyu sur",
-    "url": "https://www.airbnb.com.ar/rooms/1769762118789751828",
-    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1769762118789751828/original/18770869-e39f-4630-832f-44b9565764c9.jpeg?im_w=2560",
-    "guests": 8,
-    "bedrooms": 3,
-    "beds": 6,
-    "baths": 2,
-    "rating": null,
-    "reviews": 0,
-    "blurb": "Chalet a una cuadra del mar, cercano a Costa del este",
-    "amenities": ["Wifi", "Estacionamiento", "Identidad verificada"],
     "notes": ""
   }
 ]
