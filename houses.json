@@ -49,18 +49,18 @@
   },
   {
     "id": 4,
-    "title": "Casa Calipso",
-    "location": "La Lucila Del Mar",
-    "url": "https://www.airbnb.com.ar/rooms/1105071927334378527",
-    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1105071927334378527/original/5ee6155f-b203-4ae5-a032-ac110218eb2b.jpeg?im_w=2560",
+    "title": "Chalet hasta 8 personas",
+    "location": "Mar del tuyu sur",
+    "url": "https://www.airbnb.com.ar/rooms/1769762118789751828",
+    "image": "https://a0.muscache.com/im/pictures/hosting/Hosting-1769762118789751828/original/18770869-e39f-4630-832f-44b9565764c9.jpeg?im_w=2560",
     "guests": 8,
-    "bedrooms": 4,
-    "beds": 8,
+    "bedrooms": 3,
+    "beds": 6,
     "baths": 2,
     "rating": null,
     "reviews": 0,
-    "blurb": "Alojamiento entero en La Lucila del Mar, Argentina",
-    "amenities": ["Wifi", "Estacionamiento", "Aire Acondicionado"],
+    "blurb": "Chalet a una cuadra del mar, cercano a Costa del este",
+    "amenities": ["Wifi", "Estacionamiento", "Identidad verificada"],
     "notes": ""
   }
 ]
